@@ -1,0 +1,15 @@
+{
+  "name": "buster",
+  "version": "1.0.0",
+  "description": "Buster move your class to WebWorker",
+  "main": "index.js",
+  "scripts": {
+    "start": "browserify index.js -o bundle.js",
+    "test": "mocha"
+  },
+  "author": "spirin.vladimir@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "3.7.0"
+  }
+}
