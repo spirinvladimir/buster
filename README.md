@@ -1,1 +1,1 @@
-Buster move your class to WebWorker
+ClassWorker move your class to WebWorker
