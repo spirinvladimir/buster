@@ -1,7 +1,7 @@
 {
-  "name": "buster",
+  "name": "classworker",
   "version": "1.0.0",
-  "description": "Buster move your class to WebWorker",
+  "description": "ClassWorker move your class to WebWorker",
   "main": "index.js",
   "scripts": {
     "start": "browserify index.js -o bundle.js",
@@ -14,6 +14,7 @@
     "url": "git://github.com/spirinvladimir/classworker.git"
   },
   "devDependencies": {
-    "browserify": "3.7.0"
+    "browserify": "3.7.0",
+    "mocha": "3.0.2"
   }
 }
