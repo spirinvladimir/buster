@@ -9,6 +9,10 @@
   },
   "author": "spirin.vladimir@gmail.com",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/spirinvladimir/classworker.git"
+  },
   "devDependencies": {
     "browserify": "3.7.0"
   }
