@@ -1,7 +1,7 @@
 {
   "name": "classworker",
-  "version": "1.0.2",
-  "description": "ClassWorker move your class to WebWorker",
+  "version": "1.0.3",
+  "description": "move your class to WebWorker",
   "main": "index.js",
   "scripts": {
     "start": "browserify index.js -o bundle.js",
